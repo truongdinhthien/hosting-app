@@ -2,7 +2,7 @@
 
 This final project for Udacity's Full-Stack JavaScript Nanodegree program showcases my ability to deploy an application to the AWS cloud using a CircleCI pipeline built from scratch. The initial codebase is available on [this GitHub repository](https://github.com/udacity/nd0067-c4-deployment-process-project-starter/tree/master)
 
-**Public website**: http://udagram-frontend-970810576880.s3-website-us-east-1.amazonaws.com/home
+**Public website**: http://udagram-frontend-970810576880.s3-website-us-east-1.amazonaws.com
 
 ### Dependencies
 
